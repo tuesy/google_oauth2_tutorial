@@ -18,7 +18,6 @@ capybara-*.html
 /public/assets/*
 **.orig
 rerun.txt
-config/database.yml
 logfile
 .DS_Store
 .project
